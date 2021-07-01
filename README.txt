@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 hi welcome!
 =======
-welcome to my world! 
+Welcome to my world! 
 >>>>>>> css-assignments
